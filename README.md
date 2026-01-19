@@ -59,8 +59,8 @@ On first run, the bot will display a QR code in the terminal (or open a browser)
 ## Example messages and screenshot
 
 Below is the exact example message text shown by the bot in the screenshot you provided. To display the screenshot in this README, save your image from the chat as `assets/whatsapp-example.png` and commit it to the repository. The README references that file:
+![Example automated message screenshot](WhatsApp%20Image%202026-01-20%20at%202.27.51%20AM.jpeg)
 
-![Example automated message screenshot](WhatsApp Image 2026-01-20 at 2.27.51 AM.jpeg)
 
 Example automated message (plain text version — copy this into your message template if you want the same wording and emojis):
 
